@@ -1,0 +1,27 @@
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:1:false constant.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:1:false constant is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:1:false constant.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:3:random string with spaces.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:3:random string with spaces is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:3:random string with spaces.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:6:typeof int.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:6:typeof int is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:6:typeof int.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:8:typeof bool.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:8:typeof bool is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:8:typeof bool.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:9:typeof undefined.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:9:typeof undefined is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:9:typeof undefined.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:11:not on an int.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:11:not on an int is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:11:not on an int.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:13:not on a non-empty string.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:13:not on a non-empty string is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:13:not on a non-empty string.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:15:minus on an false bool.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:15:minus on an false bool is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:15:minus on an false bool.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Start test suite:17:apply wrong arity.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: Test suite:17:apply wrong arity is successful.
+2021-12-03T05:29:55+00:00 dhcp-vl2041-12071.eduroam.cornell.edu#02 I: End test suite:17:apply wrong arity.

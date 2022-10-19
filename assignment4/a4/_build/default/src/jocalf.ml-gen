@@ -1,0 +1,34 @@
+(** @canonical Jocalf.Ast *)
+module Ast = Jocalf__Ast
+
+
+(** @canonical Jocalf.Ast_factory *)
+module Ast_factory = Jocalf__Ast_factory
+
+
+(** @canonical Jocalf.Author *)
+module Author = Jocalf__Author
+
+
+(** @canonical Jocalf.Eval *)
+module Eval = Jocalf__Eval
+
+
+(** @canonical Jocalf.Interp *)
+module Interp = Jocalf__Interp
+
+
+(** @canonical Jocalf.Lexer *)
+module Lexer = Jocalf__Lexer
+
+
+(** @canonical Jocalf.Parse *)
+module Parse = Jocalf__Parse
+
+
+(** @canonical Jocalf.Parser *)
+module Parser = Jocalf__Parser
+
+
+(** @canonical Jocalf.Repl *)
+module Repl = Jocalf__Repl

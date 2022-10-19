@@ -1,0 +1,78 @@
+type token =
+    WHILE
+  | UPDATE
+  | UNDEFINED
+  | TYPEOF
+  | TRY
+  | TRUE
+  | TIMES
+  | THROW
+  | THEN
+  | STRING of string
+  | SEMI
+  | RPAREN
+  | REF
+  | RBRACKET
+  | RBRACE
+  | PLUS
+  | OR
+  | NOTEQUALEQUAL
+  | NOTEQUAL
+  | NOT
+  | MOD
+  | MINUS
+  | LT
+  | LPAREN
+  | LET
+  | LEQ
+  | LBRACKET
+  | LBRACE
+  | INT of string
+  | IN
+  | IF
+  | ID of string
+  | HANDLE
+  | GT
+  | GEQ
+  | FUN
+  | FINALLY
+  | FALSE
+  | EQUALEQUAL
+  | EQUAL
+  | EOF
+  | END
+  | ELSE
+  | DOUBLE_SEMI
+  | DOT
+  | DONE
+  | DO
+  | DIV
+  | DEREF
+  | DELETE
+  | COMMA
+  | COLON
+  | CATCH
+  | BEGIN
+  | ASSIGN
+  | ARROW
+  | AND
+val has_dups : 'a list -> bool
+val menhir_begin_marker : int
+val xv_unop : Ast.unop
+val xv_simple_expr : Ast.expr
+val xv_seq_expr : Ast.expr
+val xv_separated_nonempty_list_COMMA_field_bind_ : (string * Ast.expr) list
+val xv_separated_list_COMMA_field_bind_ : (string * Ast.expr) list
+val xv_parse_phrase : Ast.phrase
+val xv_parse_expression : Ast.expr
+val xv_option_DOUBLE_SEMI_ : unit option
+val xv_nonempty_list_simple_expr_ : Ast.expr list
+val xv_nonempty_list_ident_ : string list
+val xv_loption_separated_nonempty_list_COMMA_field_bind__ :
+  (string * Ast.expr) list
+val xv_ident : string
+val xv_field_bind : string * Ast.expr
+val xv_expr : Ast.expr
+val xv_defn : Ast.defn
+val xv_binop : Ast.binop
+val menhir_end_marker : int
