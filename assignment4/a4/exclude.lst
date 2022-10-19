@@ -1,6 +1,0 @@
-_build/*
-_coverage/*
-bisect*.coverage
-.git/*
-.DS_Store
-*.zip
